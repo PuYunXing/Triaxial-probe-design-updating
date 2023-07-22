@@ -1,4 +1,4 @@
-# A triaxial electromagnetic probe design for nondestructive testing of high-voltage overhead transmission lines（）
+# A triaxial electromagnetic probe design for nondestructive testing of high-voltage overhead transmission lines（updating!）
 
 ***Author: Yunxing Pu, Northeastern University.*** 
 
