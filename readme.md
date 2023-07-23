@@ -1,4 +1,4 @@
-# A triaxial electromagnetic probe design for nondestructive testing of high-voltage overhead transmission lines（）
+# A triaxial electromagnetic probe design for nondestructive testing of high-voltage overhead transmission lines（updating!）
 
 ***Author: Yunxing Pu, Northeastern University.*** 
 
@@ -6,21 +6,19 @@
 
 ***Readers are welcome to engage in discussions with me. Contact email: pu_yunxing@163.com***
 
-## Content
 
-[TOC]
 
 ## Ⅰ. Background
 
-Transmission lines are a crucial component of the power grid. Currently, the majority of high-voltage transmission lines utilize steel-cored aluminum stranded conductors. However, during their operational lifespan, various types of damage can occur. Detecting these types of damages early on is challenging through overall line monitoring of voltage, current, power, and other signals. Nevertheless, the accumulation of these defects can significantly impact the reliability of the transmission system. Currently, there is limited research focused on this specific area, highlighting the urgent need for the development of efficient and reliable methods for detecting internal and external flaws, enabling periodic non-destructive testing of power transmission lines.
+&emsp;Transmission lines are a crucial component of the power grid. Currently, the majority of high-voltage transmission lines utilize steel-cored aluminum stranded conductors. However, during their operational lifespan, various types of damage can occur. Detecting these types of damages early on is challenging through overall line monitoring of voltage, current, power, and other signals. Nevertheless, the accumulation of these defects can significantly impact the reliability of the transmission system. Currently, there is limited research focused on this specific area, highlighting the urgent need for the development of efficient and reliable methods for detecting internal and external flaws, enabling periodic non-destructive testing of power transmission lines.
 
 <div align=center>
-<img src="Fig/fenzhen.jpg" width="500" height="315"><img src="Fig\leiji.jpg" width="500" height="315" />
+<img src="Fig/fenzhen.jpg" height="250"><img src="Fig\leiji.jpg" height="250" />
 </div>
 <div align = "center">Fig.1. Wind-induced damage & Lightning strike damage</div>
 
 <div align=center>
-<img src="Fig\anzhuang.jpg" width="360" height="210"><img src="Fig\fushi.jpg" width="360" height="210"/>
+<img src="Fig\anzhuang.jpg" height="130"><img src="Fig\fushi.jpg" height="130"/>
 </div>
 <div align = "center">Fig.2. Installation damage & Corrosion damage</div>
 
@@ -143,5 +141,10 @@ First, we selected a steel plate and an aluminum plate and intentionally created
 
 <div align=center>
 <img src="Fig\3d.2-version2.jpg" height="500"/>
+</div>
+<div align = "center">Fig.18. 3d-version2</div>
+
+<div align=center>
+<img src="Fig\gunlun1.jpg" height="300"/><img src="Fig\gunlun2.jpg" height="300"/>
 </div>
 <div align = "center">Fig.18. 3d-version2</div>
